@@ -1,8 +1,8 @@
-#Ananya Velamakanni
+# Ananya Velamakanni
 
 **Email**: <ananya.velamakanni@gmail.com>, **Mobile**: +31 616178497, **DOB**: 25th September 1995
 
-###Educational Qualifications
+### Educational Qualifications
 
 * MSc. Economics (Track: Money, Banking & Financial Markets) 
 
@@ -24,7 +24,7 @@
 
 >Inter-Community School of Zürich, International Baccalaureate Middle Years Program (MYP) Certification, Year of graduation: 2011
 
-###Previous Work Experience (Internships)
+### Previous Work Experience (Internships)
 
 * WeChat Internship (3rd December 2013 – 3rd January 2014)
 >Marketing/ Product Internship
@@ -35,7 +35,7 @@
 * Medical intern with a general practitioner	(June 2010 – July 2010)
 >Assisting the pathology team in conducting diagnostic tests, Maintaining the patient database	
 
-###Projects Undertaken
+### Projects Undertaken
 
 **Personal Project in grade 10**
 
@@ -43,7 +43,7 @@ Project title: How can I encourage people to use hydrogen fuel cells for a bette
 
 Project outcome: Created an information brochure promoting the use of hydrogen fuel cells as an alternative for fossil fuels.
 
-###Awards and Achievments
+### Awards and Achievments
 
 * Indian School of Business and Finance Academic Excellence Award (Mathematical Economics): 2016
 
@@ -67,13 +67,13 @@ Project outcome: Created an information brochure promoting the use of hydrogen f
 
 * Bharatnatyam (dance) professional certificate: 2007 & 2 trophies in 2006 & 2005
 
-###Other Skills and interests
+### Other Skills and interests
 
 * Fluent in English, Hindi and Telugu and a good knowledge of German and Spanish
 
 * Computer skills: Proficient in Microsoft Office and Autograph 
 
-###Extra-Curricular Activities
+### Extra-Curricular Activities
 
 * Member of Social Work Society at college, Awareness Committees such as Breast Cancer, AIDS and Animal Cruelty at school, an educator at “Becoming I Foundation” and worked for the NGO, “ASHA for Education” in Switzerland.
 
